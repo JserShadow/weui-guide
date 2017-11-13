@@ -4,19 +4,12 @@
 
 > 与 JS 相关功能推荐使用微信官方的 weui.js，具体介绍及文档请参阅：https://github.com/Tencent/weui.js
 
-### 1.0 改动
-
-WeUI 1.0 版本相比于 0.4.x 版本增加了一些组件，比如 Flex 布局、Footer 等。但比较大的变化是采用了 BEM 命名规范，绝大多数的类名都变了，这也是重写这个入门指南的原因。
-
-> BEM 命名规范不在本文讲述范围内，请自行搜索了解、学习。
-
 ### 相关链接：
 
 * GitHub：https://github.com/Tencent/weui
 * 官方 Wiki：https://github.com/Tencent/weui/wiki
 * 下载地址：https://github.com/Tencent/weui/releases
 * Demo：https://weui.io
-* 官方 QQ 群：478234996
 
 ### 下载
 

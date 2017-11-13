@@ -10,7 +10,7 @@ WeUI 提供的页脚主要有三种样式。
 
 ```html
 <div class="weui-footer">
-    <p class="weui-footer__text">Copyright © 2016 Paranoid_K</p>
+    <p class="weui-footer__text">Copyright © 2016 Jser club</p>
 </div>
 ```
 
@@ -25,7 +25,7 @@ WeUI 提供的页脚主要有三种样式。
     <p class="weui-footer__links">
         <a href="#" class="weui-footer__link">底部链接</a>
     </p>
-    <p class="weui-footer__text">Copyright © 2016 Paranoid_K</p>
+    <p class="weui-footer__text">Copyright © 2016 Jser club</p>
 </div>
 ```
 
@@ -41,7 +41,7 @@ WeUI 提供的页脚主要有三种样式。
         <a href="#" class="weui-footer__link">底部链接</a>
         <a href="#" class="weui-footer__link">底部链接</a>
     </p>
-    <p class="weui-footer__text">Copyright © 2016 Paranoid_K</p>
+    <p class="weui-footer__text">Copyright © 2016 Jser club</p>
 </div>
 ```
 
@@ -54,6 +54,6 @@ WeUI 提供的页脚主要有三种样式。
     <p class="weui-footer__links">
         <a href="#" class="weui-footer__link">底部链接</a>
     </p>
-    <p class="weui-footer__text">Copyright © 2016 Paranoid_K</p>
+    <p class="weui-footer__text">Copyright © 2016 Jser club</p>
 </div>
 ```
